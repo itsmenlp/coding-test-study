@@ -52,4 +52,17 @@
 # 레벨 : 1
 
 # 코드 작성
+
 ```
+### 스터디 진행 상황
+
+### 시즌 1 (백준)
+
+| **주차** | **장르** | **문제 1**                                            | **문제 2**                                           | **문제 3**                                              |**문제 4**                                           | **문제 5**                                              |
+| -------- | -------- | ----------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- |---------------------------------------------------- | ------------------------------------------------------- |
+| 1주차    | 그리디      | [대회 or 인턴](https://www.acmicpc.net/problem/2875) | [동전 0](https://www.acmicpc.net/problem/11047)          | [30](https://www.acmicpc.net/problem/10610)          |[병든 나이트](https://www.acmicpc.net/problem/1783)          | [회의실 배정](https://www.acmicpc.net/problem/1931)          |
+| 2주차    | BFS, DFS     | [dfs와 bfs](https://www.acmicpc.net/problem/1260) | [연결요소의 개수](https://www.acmicpc.net/problem/11724)          | [단지번호 붙이기](https://www.acmicpc.net/problem/2667)          |[섬의 개수](https://www.acmicpc.net/problem/4963)          | [토마토](https://www.acmicpc.net/problem/7576)          |
+| 3주차    | 이진탐색      | [랜선자르기](https://www.acmicpc.net/problem/1654) | [나무자르기](https://www.acmicpc.net/problem/2805)          | [공유기 설치](https://www.acmicpc.net/problem/2110)          |[숫자카드](https://www.acmicpc.net/problem/10815)          | [민호와 강호](https://www.acmicpc.net/problem/11662)          |
+| 4주차    | DP    | [1로 만들기](https://www.acmicpc.net/problem/1463) | [2xn만들기](https://www.acmicpc.net/problem/11726)          | [1,2,3더하기](https://www.acmicpc.net/problem/9095)          |[쉬운계단수](https://www.acmicpc.net/problem/10844)          | [가장긴증가하는부분수열](https://www.acmicpc.net/problem/11053)          |
+| 5주차    | 완전탐색     | [날짜계산](https://www.acmicpc.net/problem/1476) | [리모컨](https://www.acmicpc.net/problem/1107)          | [DSLR](https://www.acmicpc.net/problem/9019)          |[차이를 최대로](https://www.acmicpc.net/problem/10819)          | [외판원순회2](https://www.acmicpc.net/problem/10819)          |
+| 6주차    | 분할정복     | [배열 합치기](https://www.acmicpc.net/problem/11728) | [종이의 개수](https://www.acmicpc.net/problem/1780)          | [하노이 탑 이동순서](https://www.acmicpc.net/problem/11729)          |[쿼드트리](https://www.acmicpc.net/problem/1992)          | [별찍기 - 10](https://www.acmicpc.net/problem/2447)          |
