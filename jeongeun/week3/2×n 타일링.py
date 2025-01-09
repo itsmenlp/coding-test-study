@@ -1,12 +1,17 @@
 n = int(input())
 
 MOD = 10007
-dp = [0] * (n+1)
 
-dp[0] = 1
-dp[1] = 1
+if n == 1:
+    print(1)
+    exit()
+elif n == 2:
+    print(3)
+    exit()
 
-for i in range(2, n+1):
-    dp[i] = (dp[i-1] + dp[i-2]) % MOD
-    
-print(dp[n])
+dp1, dp2 = 1, 3
+
+for _ in range(3, n + 1):
+    dp1, dp2 = dp2, (dp2 + 2 * dp1) % MOD
+
+print(dp2)
